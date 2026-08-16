@@ -1,0 +1,1 @@
+This is just a random collection of some small little test projects that I had some fun with to get acquainted with PyTorch, main things are the deterministic autoencoder and the CNN vs MLP test that I ran on MNIST for fun. 
